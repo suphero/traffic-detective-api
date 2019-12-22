@@ -1,7 +1,7 @@
 {
-  "name": "create-react-app-lambda",
+  "name": "traffic-detective-api",
   "version": "0.5.0",
-  "private": true,
+  "homepage": "https://traffic-detective-api.netlify.com",
   "dependencies": {
     "apollo-server-lambda": "^2.9.14",
     "axios": "^0.19.0",
