@@ -8,8 +8,7 @@
 
 # production
 /build
-/built-lambda
-
+/build-lambda
 /.netlify
 
 # misc
